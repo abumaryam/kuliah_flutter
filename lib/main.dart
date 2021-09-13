@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kuliah_flutter/screens/my_home_page.dart';
+// import 'screens/dashboard.dart';
+import 'screens/my_home_page.dart';
 
 void main() {
   runApp(MyApp());
