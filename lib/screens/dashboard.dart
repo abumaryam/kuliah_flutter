@@ -9,10 +9,7 @@ class Dashboard extends StatelessWidget {
       backgroundColor: Colors.pink[300],
       appBar: AppBar(
         centerTitle: true,
-        title: Text(
-          'Dashboard',
-          style: TextStyle(fontSize: 30),
-        ),
+        title: Text('Dashboard'),
         backgroundColor: Colors.red,
       ),
       body: Center(
