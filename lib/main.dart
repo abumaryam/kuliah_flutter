@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/dashboard.dart';
-import 'screens/mahasiswa_page.dart';
+import 'screens/simple_screen.dart';
 // import 'screens/my_home_page.dart';
 
 void main() {
@@ -15,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Kuliah Flutter',
-      home: MahasiswaPage(),
+      home: SimpleScreen(),
     );
   }
 }

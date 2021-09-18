@@ -27,7 +27,7 @@ class MyHomePage extends StatelessWidget {
             Container(
               margin: EdgeInsets.fromLTRB(0, 30, 0, 10),
               child: Text(
-                'MySisfo',
+                'KuliahPakDian',
                 style: TextStyle(
                   fontFamily: 'Pacifico',
                   letterSpacing: 2.5,
