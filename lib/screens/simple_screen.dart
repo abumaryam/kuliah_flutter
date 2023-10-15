@@ -10,7 +10,7 @@ class SimpleScreen extends StatelessWidget {
         title: Text('Simple'),
       ),
       body: Center(
-        child: Text('Ini Hanya Halaman Sederhana'),
+        child: Text('Testing Saja'),
       ),
     );
   }
